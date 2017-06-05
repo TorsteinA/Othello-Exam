@@ -8,7 +8,7 @@ An inproved AI based on a greedy algorithm was since added to it, but the code h
 
 ##Instructions:
 ####Installing
- * After downloading, open terminal in root folder
+ * After downloading, open terminal in project root folder
  * Type ```make create``` and press enter
 ####Playing game
  * Type ```make play``` to start game
