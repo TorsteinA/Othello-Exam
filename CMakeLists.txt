@@ -21,7 +21,7 @@ set(SOURCE_FILES
         input.c
         input.h
         makefile
-        readme.txt
+        readmeForLecturer.txt
         utilities.c
         utilities.h)
 
